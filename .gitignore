@@ -14,7 +14,7 @@ var name10
 
 //add names
 name1 = "nordean"
-name2 = ""
+name2 = "Rya 'Big Poppa' Law"
 name3 = ""
 name4 = ""
 name5 = ""
@@ -25,7 +25,7 @@ name9 = ""
 name10 = ""
 
 //add variable here
-alert(name1 +)
+alert(name1 + name2)
 
 
 
